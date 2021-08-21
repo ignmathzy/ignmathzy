@@ -24,7 +24,7 @@ Não deixe de me seguir aqui no GitHUB 😄
 Não deixe de me seguir aqui no GitHUB 😄
 
 <p align="center">
-&nbsp; <a href="https://twitter.com/SkedaddleGC_" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
+&nbsp; <a href="https://twitter.com/SkedaddleGC_" target="_blank" rel="noopener noreferrer"><img src=https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
 
 
 
