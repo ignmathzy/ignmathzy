@@ -14,19 +14,13 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
-
-# 🤝🏻 Rede Sociais!
-
-Não deixe de me seguir aqui no GitHUB 😄
-
 # 🤝🏻 Rede Sociais!
 
 Não deixe de me seguir aqui no GitHUB 😄
 
 <p align="center">
 &nbsp; <a href="https://twitter.com/SkedaddleGC_" target="_blank" rel="noopener noreferrer"><img src=https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
-
-
+</p>
 
                                                                                              
 
