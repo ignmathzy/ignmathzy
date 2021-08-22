@@ -22,7 +22,12 @@ Não deixe de me seguir aqui no GitHUB 😄
 &nbsp; <a href="https://twitter.com/Mathzy000" target="_blank" rel="noopener noreferrer"><img src=https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
 </p>
 
-                                                                                             
+[![Twitter](https://badges.aleen42.com/src/twitter.svg)](https://twitter.com/blueslimee)
+[![Discord](https://badgen.net/discord/online-members/AjbnMy2qP9)](https://discord.com/users/673677252462116874)
+[![SoundCloud](https://badges.aleen42.com/src/soundcloud.svg)](https://soundcloud.app.goo.gl/Q9rcn)
+[![Spotify](https://badges.aleen42.com/src/spotify.svg)](https://open.spotify.com/user/s5px6saslgh68ct3za71buljn?si=tEjEE-G8RwO4rBKK9hmNAw)
+[![JetBrains](https://badges.aleen42.com/src/idea.svg)](https://jetbrains.com)
+[![Telegram](https://badges.aleen42.com/src/telegram.svg)](https://t.me/ritodepassa)                                                                                             
 
 
 
